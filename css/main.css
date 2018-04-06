@@ -407,9 +407,9 @@ top: -8px;
 
 .work-item .overlay a {
   border: 1px solid #fff;
-  border-radius: 50%;
+  border-radius: 30%;
   display: inline-block;
-  margin-top: 20%;
+  margin-top: 10%;
   padding: 7px 10px;
 }
 
